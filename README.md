@@ -11,5 +11,6 @@ Bausatz LED-Spielerahmen
 Links zu geeigneten Spielen:
 !(https://github.com/harbaum/make-block-reloaded)
 
-![Picture](https://github.com/MakeMagazinDE/Selbstbaugiessautomat/blob/master/IMG_0160_klein.JPG) 
+
+![Picture](https://github.com/MakeMagazinDE/MakeBlock/blob/master/IMG_0160_klein.JPG) 
 
