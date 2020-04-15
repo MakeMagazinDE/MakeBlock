@@ -12,7 +12,7 @@ Hier kommen Sie zur ![Bauanleitung](https://github.com/MakeMagazinDE/MakeBlock/b
 
 Links zu geeigneten Spielen:
 
-!(https://github.com/harbaum/make-block-reloaded)
+(https://github.com/harbaum/make-block-reloaded)
 
 ![Picture](https://github.com/MakeMagazinDE/MakeBlock/blob/master/tn_tetris_hw11.slr_SO.jpg) 
 
