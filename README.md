@@ -6,7 +6,8 @@ Maker Media GmbH
 # MakeBlock
 Bausatz LED-Spielerahmen 
 
-![Picture](https://github.com/MakeMagazinDE/MakeBlock/blob/master/_MG_0119.JPG) 
+![Picture](https://github.com/MakeMagazinDE/MakeBlock/blob/master/
+Picture.JPG) 
 
 
 ### Dieser leicht aufzubauende LED-Spielerahmen enthält eine 15 x 20-LED-Matrix, einen Arduino nano, Joystick und Lautsprecher inklusive Verstärker. Mit der Programmierumgebung Arduino IDE können Sie geeignete Spiele-Software darauf installieren.
