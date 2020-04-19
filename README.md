@@ -19,4 +19,7 @@ https://github.com/harbaum/make-block-reloaded/archive/master.zip
 
 ![Picture](https://github.com/MakeMagazinDE/MakeBlock/blob/master/tn_tetris_hw11.slr_SO.jpg) 
 
+Die Arduino-IDE zum Überspielen der Software auf den Arduino im Joystick erhalten sie hier:
+
+https://www.arduino.cc/en/main/software
 
