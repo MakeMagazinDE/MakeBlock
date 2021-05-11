@@ -3,7 +3,7 @@
 Maker Media GmbH
 *** 
 
-# MakeBlock
+# Gameframe
 Bausatz LED-Spielerahmen 
 
 ![Picture](https://github.com/MakeMagazinDE/MakeBlock/blob/master/Picture.jpg) 
